@@ -1,5 +1,5 @@
 # bst-assembly
-Binary search tree and queue written in Assembly 
+Binary search tree (BST) and queue written in Assembly MIPS
 
 You can see more details by looking into [report](report.pdf)
 
